@@ -20,7 +20,7 @@ module FbService
         when 200
           JSON.parse(res.body)
         else
-          {:error => "failed"}
+          {error: "failed"}
         end
       end
     end
@@ -40,7 +40,7 @@ module FbService
         when 200
           JSON.parse(res.body)
         else
-          {:error => "failed"}
+          {error: "failed"}
         end
       end
     end
@@ -67,7 +67,7 @@ module FbService
         UserService::InsertToken.call(u, token)
 
         return {
-          token: "#{u.fb_id}:#{token}",
+          token: "Bearer #{u.fb_id}:#{token}",
           user: u,
         }
       end

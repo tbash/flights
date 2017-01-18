@@ -10,7 +10,6 @@ gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.0'
 gem 'rack-cors'
 gem 'httparty'
-gem 'google-api-client', '~> 0.9'
 
 group :development, :test do
   gem 'byebug', platform: :mri
