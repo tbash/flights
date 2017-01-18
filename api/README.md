@@ -26,7 +26,7 @@ GET `/search?`
 
 request (query params)
 ```
-passengers=1
+passengers_count=1
 origin=SFO
 destination=LAX
 ```

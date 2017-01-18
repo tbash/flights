@@ -35,12 +35,16 @@ module UserService
     end
   end
 
-  class HasToken
+  class FromToken
     class << self
       def call(fb_id, token)
-        !!User
-        .find_by(fb_id: fb_id)
-        .tokens[token]
+        user = User.find_by(fb_id: fb_id)
+
+        if user && user.tokens && !!user.tokens[token]
+          user
+        else
+          false
+        end
       end
     end
   end
