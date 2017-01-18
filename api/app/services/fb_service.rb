@@ -1,5 +1,5 @@
 module FbService
-  ROOT_URL      = "https://graph.facebook.com/v2.4/oauth/access_token"
+  ROOT_URL      = "https://graph.facebook.com/v2.4"
   CLIENT_ID     = ENV['FACEBOOK_APP_ID']
   REDIRECT_URI  = ENV['FACEBOOK_REDIRECT_URI']
   CLIENT_SECRET = ENV['FACEBOOK_APP_SECRET']
@@ -7,7 +7,7 @@ module FbService
   class Auth
     class << self
       def build_req(code)
-        "#{ROOT_URL}"\
+        "#{ROOT_URL}/oauth/access_token"\
         "?client_id=#{CLIENT_ID}"\
         "&redirect_uri=#{REDIRECT_URI}"\
         "&client_secret=#{CLIENT_SECRET}"\
@@ -20,7 +20,7 @@ module FbService
         when 200
           JSON.parse(res.body)
         else
-          {"error" => "invalid code"}
+          {:error => "failed"}
         end
       end
     end
@@ -29,8 +29,8 @@ module FbService
   class UserData
     class << self
       def build_req(token)
-        "#{ROOT_URL}"\
-        "/me?fields=id,name,picture"\
+        "#{ROOT_URL}/me"\
+        "?fields=id,name,picture"\
         "&access_token=#{token}"
       end
 
@@ -40,8 +40,36 @@ module FbService
         when 200
           JSON.parse(res.body)
         else
-          {"error" => "invalid token"}
+          {:error => "failed"}
         end
+      end
+    end
+  end
+
+  class Login
+    class << self
+      def call(code)
+        auth_res = FbService::Auth.call(code)
+
+        return false if auth_res[:error]
+
+        token    = auth_res["access_token"]
+        user_res = FbService::UserData.call(token)
+
+        return false if user_res[:error]
+
+        u = UserService::FindOrCreate.call({
+          name: user_res["name"],
+          fb_id: user_res["fb_id"],
+          picture: user_res.dig("picture", "data", "url"),
+        })
+
+        UserService::InsertToken.call(u, token)
+
+        return {
+          token: "#{u.fb_id}:#{token}",
+          user: u,
+        }
       end
     end
   end
