@@ -30,7 +30,7 @@ module FbService
     class << self
       def build_req(token)
         "#{ROOT_URL}/me"\
-        "?fields=id,name,picture"\
+        "?fields=id,name,picture.width(320).height(320)"\
         "&access_token=#{token}"
       end
 
