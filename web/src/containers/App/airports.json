@@ -1,0 +1,2938 @@
+[
+  {
+    "code": "ABE",
+    "name": "Allentown, Pennsylvania"
+  },
+  {
+    "code": "ABI",
+    "name": "Abilene, Texas"
+  },
+  {
+    "code": "ABL",
+    "name": "Kiana, Alaska"
+  },
+  {
+    "code": "ABQ",
+    "name": "Albuquerque, New Mexico"
+  },
+  {
+    "code": "ABR",
+    "name": "Aberdeen, South Dakota"
+  },
+  {
+    "code": "ABY",
+    "name": "Albany, Georgia"
+  },
+  {
+    "code": "ACK",
+    "name": "Nantucket, Massachusetts"
+  },
+  {
+    "code": "ACT",
+    "name": "Waco, Texas"
+  },
+  {
+    "code": "ACV",
+    "name": "Mckinleyville, California"
+  },
+  {
+    "code": "ACY",
+    "name": "Egg Harbor City, New Jersey"
+  },
+  {
+    "code": "ADK",
+    "name": "Adak, Alaska"
+  },
+  {
+    "code": "ADQ",
+    "name": "Kodiak, Alaska"
+  },
+  {
+    "code": "AET",
+    "name": "Allakaket, Alaska"
+  },
+  {
+    "code": "AEX",
+    "name": "Alexandria, Louisiana"
+  },
+  {
+    "code": "AGN",
+    "name": "Angoon, Alaska"
+  },
+  {
+    "code": "AGS",
+    "name": "Augusta, Georgia"
+  },
+  {
+    "code": "AHC",
+    "name": "Herlong, California"
+  },
+  {
+    "code": "AIA",
+    "name": "Alliance, Nebraska"
+  },
+  {
+    "code": "AIN",
+    "name": "Wainwright, Alaska"
+  },
+  {
+    "code": "AKB",
+    "name": "Atka, Alaska"
+  },
+  {
+    "code": "AKI",
+    "name": "Bethel, Alaska"
+  },
+  {
+    "code": "AKK",
+    "name": "Kodiak, Alaska"
+  },
+  {
+    "code": "AKN",
+    "name": "King Salmon, Alaska"
+  },
+  {
+    "code": "AKP",
+    "name": "Anaktuvuk Pass, Alaska"
+  },
+  {
+    "code": "ALB",
+    "name": "Latham, New York"
+  },
+  {
+    "code": "ALM",
+    "name": "Alamogordo, New Mexico"
+  },
+  {
+    "code": "ALO",
+    "name": "Waterloo, Iowa"
+  },
+  {
+    "code": "ALS",
+    "name": "Alamosa, Colorado"
+  },
+  {
+    "code": "ALW",
+    "name": "Walla Walla, Washington"
+  },
+  {
+    "code": "ALZ",
+    "name": "Alitak, Alaska"
+  },
+  {
+    "code": "AMA",
+    "name": "Amarillo, Texas"
+  },
+  {
+    "code": "ANC",
+    "name": "Anchorage, Alaska"
+  },
+  {
+    "code": "ANI",
+    "name": "Bethel, Alaska"
+  },
+  {
+    "code": "ANV",
+    "name": "Anvik, Alaska"
+  },
+  {
+    "code": "AOO",
+    "name": "Martinsburg, Pennsylvania"
+  },
+  {
+    "code": "AOS",
+    "name": "Amook, Alaska"
+  },
+  {
+    "code": "APA",
+    "name": "Englewood, Colorado"
+  },
+  {
+    "code": "APF",
+    "name": "Naples, Florida"
+  },
+  {
+    "code": "APN",
+    "name": "Alpena, Michigan"
+  },
+  {
+    "code": "ARC",
+    "name": "Arctic Village, Alaska"
+  },
+  {
+    "code": "ART",
+    "name": "Dexter, New York"
+  },
+  {
+    "code": "ARV",
+    "name": "Woodruff, Wisconsin"
+  },
+  {
+    "code": "ASE",
+    "name": "Aspen, Colorado"
+  },
+  {
+    "code": "ATK",
+    "name": "Atqasuk, Alaska"
+  },
+  {
+    "code": "ATL",
+    "name": "Atlanta, Georgia"
+  },
+  {
+    "code": "ATT",
+    "name": "Atmautluak, Alaska"
+  },
+  {
+    "code": "ATW",
+    "name": "Appleton, Wisconsin"
+  },
+  {
+    "code": "ATY",
+    "name": "Watertown, South Dakota"
+  },
+  {
+    "code": "AUG",
+    "name": "Augusta, Maine"
+  },
+  {
+    "code": "AUK",
+    "name": "Alakanuk, Alaska"
+  },
+  {
+    "code": "AUS",
+    "name": "Austin, Texas"
+  },
+  {
+    "code": "AVL",
+    "name": "Fletcher, North Carolina"
+  },
+  {
+    "code": "AVP",
+    "name": "Pittston, Pennsylvania"
+  },
+  {
+    "code": "AZA",
+    "name": "Phoenix, Arizona"
+  },
+  {
+    "code": "AZO",
+    "name": "Kalamazoo, Michigan"
+  },
+  {
+    "code": "BDL",
+    "name": "Windsor Locks, Connecticut"
+  },
+  {
+    "code": "BDR",
+    "name": "Stratford, Connecticut"
+  },
+  {
+    "code": "BET",
+    "name": "Bethel, Alaska"
+  },
+  {
+    "code": "BFD",
+    "name": "Lewis Run, Pennsylvania"
+  },
+  {
+    "code": "BFF",
+    "name": "Scottsbluff, Nebraska"
+  },
+  {
+    "code": "BFI",
+    "name": "Seattle, Washington"
+  },
+  {
+    "code": "BFL",
+    "name": "Bakersfield, California"
+  },
+  {
+    "code": "BGM",
+    "name": "Johnson City, New York"
+  },
+  {
+    "code": "BGR",
+    "name": "Bangor, Maine"
+  },
+  {
+    "code": "BHB",
+    "name": "Ellsworth, Maine"
+  },
+  {
+    "code": "BHM",
+    "name": "Birmingham, Alabama"
+  },
+  {
+    "code": "BID",
+    "name": "Block Island, Rhode Island"
+  },
+  {
+    "code": "BIL",
+    "name": "Billings, Montana"
+  },
+  {
+    "code": "BIS",
+    "name": "Bismarck, North Dakota"
+  },
+  {
+    "code": "BJI",
+    "name": "Bemidji, Minnesota"
+  },
+  {
+    "code": "BKC",
+    "name": "Buckland, Alaska"
+  },
+  {
+    "code": "BKL",
+    "name": "Cleveland, Ohio"
+  },
+  {
+    "code": "BKW",
+    "name": "Beaver, West Virginia"
+  },
+  {
+    "code": "BLI",
+    "name": "Bellingham, Washington"
+  },
+  {
+    "code": "BLV",
+    "name": "Belleville, Illinois"
+  },
+  {
+    "code": "BMI",
+    "name": "Bloomington, Illinois"
+  },
+  {
+    "code": "BNA",
+    "name": "Nashville, Tennessee"
+  },
+  {
+    "code": "BOI",
+    "name": "Boise, Idaho"
+  },
+  {
+    "code": "BOS",
+    "name": "Boston, Massachusetts"
+  },
+  {
+    "code": "BOW",
+    "name": "Bartow, Florida"
+  },
+  {
+    "code": "BPT",
+    "name": "Beaumont, Texas"
+  },
+  {
+    "code": "BQK",
+    "name": "Brunswick, Georgia"
+  },
+  {
+    "code": "BQN",
+    "name": "Aguadilla, Puerto Rico"
+  },
+  {
+    "code": "BRD",
+    "name": "Brainerd, Minnesota"
+  },
+  {
+    "code": "BRL",
+    "name": "Burlington, Iowa"
+  },
+  {
+    "code": "BRO",
+    "name": "Brownsville, Texas"
+  },
+  {
+    "code": "BRW",
+    "name": "Barrow, Alaska"
+  },
+  {
+    "code": "BTI",
+    "name": "Kaktovik, Alaska"
+  },
+  {
+    "code": "BTL",
+    "name": "Battle Creek, Michigan"
+  },
+  {
+    "code": "BTM",
+    "name": "Butte, Montana"
+  },
+  {
+    "code": "BTR",
+    "name": "Baton Rouge, Louisiana"
+  },
+  {
+    "code": "BTT",
+    "name": "Bettles, Alaska"
+  },
+  {
+    "code": "BTV",
+    "name": "South Burlington, Vermont"
+  },
+  {
+    "code": "BUF",
+    "name": "Buffalo, New York"
+  },
+  {
+    "code": "BUR",
+    "name": "Burbank, California"
+  },
+  {
+    "code": "BWI",
+    "name": "Baltimore, Maryland"
+  },
+  {
+    "code": "BZN",
+    "name": "Bozeman, Montana"
+  },
+  {
+    "code": "CAE",
+    "name": "West Columbia, South Carolina"
+  },
+  {
+    "code": "CAK",
+    "name": "Canton, Ohio"
+  },
+  {
+    "code": "CDB",
+    "name": "Cold Bay, Alaska"
+  },
+  {
+    "code": "CDC",
+    "name": "Cedar City, Utah"
+  },
+  {
+    "code": "CDR",
+    "name": "Chadron, Nebraska"
+  },
+  {
+    "code": "CDV",
+    "name": "Cordova, Alaska"
+  },
+  {
+    "code": "CDW",
+    "name": "Fairfield, New Jersey"
+  },
+  {
+    "code": "CEC",
+    "name": "Crescent City, California"
+  },
+  {
+    "code": "CEM",
+    "name": "Circle, Alaska"
+  },
+  {
+    "code": "CEZ",
+    "name": "Cortez, Colorado"
+  },
+  {
+    "code": "CGA",
+    "name": "Craig, Alaska"
+  },
+  {
+    "code": "CGI",
+    "name": "Scott City, Missouri"
+  },
+  {
+    "code": "CHA",
+    "name": "Chattanooga, Tennessee"
+  },
+  {
+    "code": "CHO",
+    "name": "Earlysville, Virginia"
+  },
+  {
+    "code": "CHS",
+    "name": "North Charleston, South Carolina"
+  },
+  {
+    "code": "CHU",
+    "name": "Chuathbaluk, Alaska"
+  },
+  {
+    "code": "CIC",
+    "name": "Chico, California"
+  },
+  {
+    "code": "CID",
+    "name": "Cedar Rapids, Iowa"
+  },
+  {
+    "code": "CIK",
+    "name": "Chalkyitsik, Alaska"
+  },
+  {
+    "code": "CIU",
+    "name": "Kincheloe, Michigan"
+  },
+  {
+    "code": "CKB",
+    "name": "Clarksburg, West Virginia"
+  },
+  {
+    "code": "CKD",
+    "name": "Aniak, Alaska"
+  },
+  {
+    "code": "CKX",
+    "name": "Tok, Alaska"
+  },
+  {
+    "code": "CLD",
+    "name": "Carlsbad, California"
+  },
+  {
+    "code": "CLE",
+    "name": "Cleveland, Ohio"
+  },
+  {
+    "code": "CLL",
+    "name": "College Station, Texas"
+  },
+  {
+    "code": "CLM",
+    "name": "Port Angeles, Washington"
+  },
+  {
+    "code": "CLP",
+    "name": "Clarks Point, Alaska"
+  },
+  {
+    "code": "CLT",
+    "name": "Charlotte, North Carolina"
+  },
+  {
+    "code": "CMH",
+    "name": "Columbus, Ohio"
+  },
+  {
+    "code": "CMI",
+    "name": "Savoy, Illinois"
+  },
+  {
+    "code": "CMX",
+    "name": "Hancock, Michigan"
+  },
+  {
+    "code": "CNM",
+    "name": "Carlsbad, New Mexico"
+  },
+  {
+    "code": "CNY",
+    "name": "Thompson, Utah"
+  },
+  {
+    "code": "COD",
+    "name": "Cody\/Yellowstone, Wyoming"
+  },
+  {
+    "code": "COS",
+    "name": "Colorado Springs, Colorado"
+  },
+  {
+    "code": "COU",
+    "name": "Columbia, Missouri"
+  },
+  {
+    "code": "CPR",
+    "name": "Casper, Wyoming"
+  },
+  {
+    "code": "CPX",
+    "name": "Culebra, Puerto Rico"
+  },
+  {
+    "code": "CRP",
+    "name": "Corpus Christi, Texas"
+  },
+  {
+    "code": "CRW",
+    "name": "Charleston, West Virginia"
+  },
+  {
+    "code": "CSG",
+    "name": "Columbus, Georgia"
+  },
+  {
+    "code": "CVG",
+    "name": "Hebron, Ohio"
+  },
+  {
+    "code": "CVN",
+    "name": "Texico, New Mexico"
+  },
+  {
+    "code": "CWA",
+    "name": "Mosinee, Wisconsin"
+  },
+  {
+    "code": "CYF",
+    "name": "Chefornak, Alaska"
+  },
+  {
+    "code": "CYS",
+    "name": "Cheyenne, Wyoming"
+  },
+  {
+    "code": "CZN",
+    "name": "Gakona, Alaska"
+  },
+  {
+    "code": "DAB",
+    "name": "Daytona Beach, Florida"
+  },
+  {
+    "code": "DAL",
+    "name": "Dallas, Texas"
+  },
+  {
+    "code": "DAY",
+    "name": "Dayton, Ohio"
+  },
+  {
+    "code": "DBQ",
+    "name": "Dubuque, Iowa"
+  },
+  {
+    "code": "DCA",
+    "name": "Arlington, Virginia"
+  },
+  {
+    "code": "DDC",
+    "name": "Dodge City, Kansas"
+  },
+  {
+    "code": "DEC",
+    "name": "Decatur, Illinois"
+  },
+  {
+    "code": "DEN",
+    "name": "Denver, Colorado"
+  },
+  {
+    "code": "DFW",
+    "name": "Dallas, Texas"
+  },
+  {
+    "code": "DHN",
+    "name": "Dothan, Alabama"
+  },
+  {
+    "code": "DIK",
+    "name": "Dickinson, North Dakota"
+  },
+  {
+    "code": "DLG",
+    "name": "Dillingham, Alaska"
+  },
+  {
+    "code": "DLH",
+    "name": "Duluth, Minnesota"
+  },
+  {
+    "code": "DRG",
+    "name": "Deering, Alaska"
+  },
+  {
+    "code": "DRO",
+    "name": "Durango, Colorado"
+  },
+  {
+    "code": "DRT",
+    "name": "Del Rio, Texas"
+  },
+  {
+    "code": "DSM",
+    "name": "Des Moines, Iowa"
+  },
+  {
+    "code": "DTW",
+    "name": "Detroit, Michigan"
+  },
+  {
+    "code": "DUJ",
+    "name": "Reynoldsville, Pennsylvania"
+  },
+  {
+    "code": "DUT",
+    "name": "Unalaska, Alaska"
+  },
+  {
+    "code": "DVL",
+    "name": "Devils Lake, North Dakota"
+  },
+  {
+    "code": "EAA",
+    "name": "Tok, Alaska"
+  },
+  {
+    "code": "EAR",
+    "name": "Kearney, Nebraska"
+  },
+  {
+    "code": "EAT",
+    "name": "East Wenatchee, Washington"
+  },
+  {
+    "code": "EAU",
+    "name": "Eau Claire, Wisconsin"
+  },
+  {
+    "code": "EDA",
+    "name": "Ketchikan, Alaska"
+  },
+  {
+    "code": "EEK",
+    "name": "Eek, Alaska"
+  },
+  {
+    "code": "EGE",
+    "name": "Gypsum, Colorado"
+  },
+  {
+    "code": "EGV",
+    "name": "Eagle River, Wisconsin"
+  },
+  {
+    "code": "EGX",
+    "name": "Egegik, Alaska"
+  },
+  {
+    "code": "EKO",
+    "name": "Elko, Nevada"
+  },
+  {
+    "code": "ELI",
+    "name": "Elim, Alaska"
+  },
+  {
+    "code": "ELM",
+    "name": "Horseheads, New York"
+  },
+  {
+    "code": "ELP",
+    "name": "El Paso, Texas"
+  },
+  {
+    "code": "ELV",
+    "name": "Elfin Cove, Alaska"
+  },
+  {
+    "code": "ELY",
+    "name": "Ely, Nevada"
+  },
+  {
+    "code": "EMK",
+    "name": "Alakanuk, Alaska"
+  },
+  {
+    "code": "ENA",
+    "name": "Kenai, Alaska"
+  },
+  {
+    "code": "ENW",
+    "name": "Kenosha, Wisconsin"
+  },
+  {
+    "code": "ERI",
+    "name": "Erie, Pennsylvania"
+  },
+  {
+    "code": "ESC",
+    "name": "Escanaba, Michigan"
+  },
+  {
+    "code": "ESD",
+    "name": "Eastsound, Washington"
+  },
+  {
+    "code": "EUG",
+    "name": "Eugene, Oregon"
+  },
+  {
+    "code": "EVV",
+    "name": "Evansville, Indiana"
+  },
+  {
+    "code": "EWB",
+    "name": "New Bedford, Massachusetts"
+  },
+  {
+    "code": "EWD",
+    "name": "Wildman Lake, Alaska"
+  },
+  {
+    "code": "EWN",
+    "name": "New Bern, North Carolina"
+  },
+  {
+    "code": "EWR",
+    "name": "Newark, New Jersey"
+  },
+  {
+    "code": "EYW",
+    "name": "Key West, Florida"
+  },
+  {
+    "code": "FAI",
+    "name": "Fairbanks, Alaska"
+  },
+  {
+    "code": "FAR",
+    "name": "Fargo, North Dakota"
+  },
+  {
+    "code": "FAT",
+    "name": "Fresno, California"
+  },
+  {
+    "code": "FAY",
+    "name": "Fayetteville, North Carolina"
+  },
+  {
+    "code": "FCA",
+    "name": "Kalispell, Montana"
+  },
+  {
+    "code": "FKL",
+    "name": "Franklin, Pennsylvania"
+  },
+  {
+    "code": "FLG",
+    "name": "Flagstaff, Arizona"
+  },
+  {
+    "code": "FLL",
+    "name": "Dania Beach, Florida"
+  },
+  {
+    "code": "FLO",
+    "name": "Florence, South Carolina"
+  },
+  {
+    "code": "FMN",
+    "name": "Farmington, New Mexico"
+  },
+  {
+    "code": "FMY",
+    "name": "Fort Myers, Florida"
+  },
+  {
+    "code": "FNL",
+    "name": "Loveland, Colorado"
+  },
+  {
+    "code": "FNT",
+    "name": "Flint, Michigan"
+  },
+  {
+    "code": "FOD",
+    "name": "Fort Dodge, Iowa"
+  },
+  {
+    "code": "FRD",
+    "name": "Friday Harbor, Washington"
+  },
+  {
+    "code": "FSD",
+    "name": "Sioux Falls, South Dakota"
+  },
+  {
+    "code": "FSM",
+    "name": "Fort Smith, Arkansas"
+  },
+  {
+    "code": "FWA",
+    "name": "Fort Wayne, Indiana"
+  },
+  {
+    "code": "FYU",
+    "name": "Fort Yukon, Alaska"
+  },
+  {
+    "code": "GAL",
+    "name": "Galena, Alaska"
+  },
+  {
+    "code": "GAM",
+    "name": "Gambell, Alaska"
+  },
+  {
+    "code": "GBD",
+    "name": "Great Bend, Kansas"
+  },
+  {
+    "code": "GCC",
+    "name": "Gillette, Wyoming"
+  },
+  {
+    "code": "GCK",
+    "name": "Pierceville, Kansas"
+  },
+  {
+    "code": "GEG",
+    "name": "Spokane, Washington"
+  },
+  {
+    "code": "GFK",
+    "name": "Grand Forks, North Dakota"
+  },
+  {
+    "code": "GGG",
+    "name": "Longview, Texas"
+  },
+  {
+    "code": "GJT",
+    "name": "Grand Junction, Colorado"
+  },
+  {
+    "code": "GLH",
+    "name": "Greenville, Mississippi"
+  },
+  {
+    "code": "GLV",
+    "name": "Golovin, Alaska"
+  },
+  {
+    "code": "GNU",
+    "name": "Goodnews Bay, Alaska"
+  },
+  {
+    "code": "GNV",
+    "name": "Gainesville, Florida"
+  },
+  {
+    "code": "GPT",
+    "name": "Gulfport, Mississippi"
+  },
+  {
+    "code": "GRB",
+    "name": "Green Bay, Wisconsin"
+  },
+  {
+    "code": "GRK",
+    "name": "Killeen, Texas"
+  },
+  {
+    "code": "GRR",
+    "name": "Grand Rapids, Michigan"
+  },
+  {
+    "code": "GSO",
+    "name": "Greensboro, North Carolina"
+  },
+  {
+    "code": "GSP",
+    "name": "Greer, South Carolina"
+  },
+  {
+    "code": "GST",
+    "name": "Gustavus, Alaska"
+  },
+  {
+    "code": "GTF",
+    "name": "Great Falls, Montana"
+  },
+  {
+    "code": "GTR",
+    "name": "Columbus, Mississippi"
+  },
+  {
+    "code": "GUC",
+    "name": "Gunnison, Colorado"
+  },
+  {
+    "code": "GUM",
+    "name": "Hag\u00e5t\u00f1a, Guam"
+  },
+  {
+    "code": "HAE",
+    "name": "Havasupai, Arizona"
+  },
+  {
+    "code": "HCR",
+    "name": "Holy Cross, Alaska"
+  },
+  {
+    "code": "HDN",
+    "name": "Hayden, Colorado"
+  },
+  {
+    "code": "HHH",
+    "name": "Hilton Head Island, South Carolina"
+  },
+  {
+    "code": "HIB",
+    "name": "Hibbing, Minnesota"
+  },
+  {
+    "code": "HKB",
+    "name": "Healy Lake, Alaska"
+  },
+  {
+    "code": "HLN",
+    "name": "Helena, Montana"
+  },
+  {
+    "code": "HNH",
+    "name": "Hoonah, Alaska"
+  },
+  {
+    "code": "HNL",
+    "name": "Honolulu, Hawaii"
+  },
+  {
+    "code": "HNM",
+    "name": "Hana, Hawaii"
+  },
+  {
+    "code": "HNS",
+    "name": "Haines, Alaska"
+  },
+  {
+    "code": "HOB",
+    "name": "Hobbs, New Mexico"
+  },
+  {
+    "code": "HOM",
+    "name": "Homer, Alaska"
+  },
+  {
+    "code": "HON",
+    "name": "Huron, South Dakota"
+  },
+  {
+    "code": "HOU",
+    "name": "Houston, Texas"
+  },
+  {
+    "code": "HPB",
+    "name": "Hooper Bay, Alaska"
+  },
+  {
+    "code": "HPN",
+    "name": "Purchase, New York"
+  },
+  {
+    "code": "HRL",
+    "name": "Harlingen, Texas"
+  },
+  {
+    "code": "HSL",
+    "name": "Huslia, Alaska"
+  },
+  {
+    "code": "HSV",
+    "name": "Huntsville, Alabama"
+  },
+  {
+    "code": "HTS",
+    "name": "Huntington, West Virginia"
+  },
+  {
+    "code": "HUS",
+    "name": "Hughes, Alaska"
+  },
+  {
+    "code": "HVN",
+    "name": "East Haven, Connecticut"
+  },
+  {
+    "code": "HVR",
+    "name": "Havre, Montana"
+  },
+  {
+    "code": "HYA",
+    "name": "Hyannis, Massachusetts"
+  },
+  {
+    "code": "HYG",
+    "name": "Hydaburg, Alaska"
+  },
+  {
+    "code": "HYL",
+    "name": "Hollis, Alaska"
+  },
+  {
+    "code": "HYS",
+    "name": "Hays, Kansas"
+  },
+  {
+    "code": "IAD",
+    "name": "Washington, Virginia"
+  },
+  {
+    "code": "IAG",
+    "name": "Niagara Falls, New York"
+  },
+  {
+    "code": "IAH",
+    "name": "Houston, Texas"
+  },
+  {
+    "code": "IAN",
+    "name": "Kiana, Alaska"
+  },
+  {
+    "code": "ICT",
+    "name": "Wichita, Kansas"
+  },
+  {
+    "code": "IDA",
+    "name": "Idaho Falls, Idaho"
+  },
+  {
+    "code": "IFP",
+    "name": "Bullhead City, Arizona"
+  },
+  {
+    "code": "IGG",
+    "name": "Igiugig, Alaska"
+  },
+  {
+    "code": "IGM",
+    "name": "Kingman, Arizona"
+  },
+  {
+    "code": "IKO",
+    "name": "Nikolski, Alaska"
+  },
+  {
+    "code": "ILI",
+    "name": "Iliamna, Alaska"
+  },
+  {
+    "code": "ILM",
+    "name": "Wilmington, North Carolina"
+  },
+  {
+    "code": "ILN",
+    "name": "Wilmington, Ohio"
+  },
+  {
+    "code": "IMT",
+    "name": "Kingsford, Michigan"
+  },
+  {
+    "code": "IND",
+    "name": "Indianapolis, Indiana"
+  },
+  {
+    "code": "INL",
+    "name": "International Falls, Minnesota"
+  },
+  {
+    "code": "INT",
+    "name": "Winston-Salem, North Carolina"
+  },
+  {
+    "code": "IPL",
+    "name": "Imperial, California"
+  },
+  {
+    "code": "IPT",
+    "name": "Montoursville, Pennsylvania"
+  },
+  {
+    "code": "IRC",
+    "name": "Circle, Alaska"
+  },
+  {
+    "code": "IRM",
+    "name": "Irma, Wisconsin"
+  },
+  {
+    "code": "ISN",
+    "name": "Williston, North Dakota"
+  },
+  {
+    "code": "ISO",
+    "name": "Kinston, North Carolina"
+  },
+  {
+    "code": "ISP",
+    "name": "Ronkonkoma, New York"
+  },
+  {
+    "code": "ITH",
+    "name": "Ithaca, New York"
+  },
+  {
+    "code": "ITO",
+    "name": "Hilo, Hawaii"
+  },
+  {
+    "code": "IWD",
+    "name": "Ironwood, Michigan"
+  },
+  {
+    "code": "IYK",
+    "name": "Inyokern, California"
+  },
+  {
+    "code": "JAC",
+    "name": "Jackson, Wyoming"
+  },
+  {
+    "code": "JAN",
+    "name": "Pearl, Mississippi"
+  },
+  {
+    "code": "JAX",
+    "name": "Jacksonville, Florida"
+  },
+  {
+    "code": "JEF",
+    "name": "Holts Summit, Missouri"
+  },
+  {
+    "code": "JFK",
+    "name": "Jamaica, New York"
+  },
+  {
+    "code": "JGC",
+    "name": "Williams, Arizona"
+  },
+  {
+    "code": "JHM",
+    "name": "Lahaina, Hawaii"
+  },
+  {
+    "code": "JHW",
+    "name": "Jamestown, New York"
+  },
+  {
+    "code": "JKL",
+    "name": "Jackson, Kentucky"
+  },
+  {
+    "code": "JLN",
+    "name": "Webb City, Missouri"
+  },
+  {
+    "code": "JMS",
+    "name": "Jamestown, North Dakota"
+  },
+  {
+    "code": "JNU",
+    "name": "Juneau, Alaska"
+  },
+  {
+    "code": "JRB",
+    "name": "New York, New York"
+  },
+  {
+    "code": "JST",
+    "name": "Johnstown, Pennsylvania"
+  },
+  {
+    "code": "KAL",
+    "name": "Kaltag, Alaska"
+  },
+  {
+    "code": "KBC",
+    "name": "Birch Creek, Alaska"
+  },
+  {
+    "code": "KCC",
+    "name": "Coffman Cove, Alaska"
+  },
+  {
+    "code": "KCG",
+    "name": "Chignik Lagoon, Alaska"
+  },
+  {
+    "code": "KCL",
+    "name": "Chignik Lagoon, Alaska"
+  },
+  {
+    "code": "KCQ",
+    "name": "Chignik, Alaska"
+  },
+  {
+    "code": "KEB",
+    "name": "Nanwalek, Alaska"
+  },
+  {
+    "code": "KEK",
+    "name": "Ekwok, Alaska"
+  },
+  {
+    "code": "KFP",
+    "name": "False Pass, Alaska"
+  },
+  {
+    "code": "KGK",
+    "name": "New Koliganek, Alaska"
+  },
+  {
+    "code": "KGX",
+    "name": "Grayling, Alaska"
+  },
+  {
+    "code": "KKA",
+    "name": "Koyuk, Alaska"
+  },
+  {
+    "code": "KKB",
+    "name": "Kitoi Bay, Alaska"
+  },
+  {
+    "code": "KKH",
+    "name": "Kongiganak, Alaska"
+  },
+  {
+    "code": "KKI",
+    "name": "Akiachak, Alaska"
+  },
+  {
+    "code": "KKU",
+    "name": "Clarks Point, Alaska"
+  },
+  {
+    "code": "KLG",
+    "name": "Kalskag, Alaska"
+  },
+  {
+    "code": "KLL",
+    "name": "Levelock, Alaska"
+  },
+  {
+    "code": "KLN",
+    "name": "Larsen Bay, Alaska"
+  },
+  {
+    "code": "KLW",
+    "name": "Klawock, Alaska"
+  },
+  {
+    "code": "KMC",
+    "name": "King Khalid Mil. City, Alaska"
+  },
+  {
+    "code": "KMO",
+    "name": "Manokotak, Alaska"
+  },
+  {
+    "code": "KMY",
+    "name": "Moser Bay, Alaska"
+  },
+  {
+    "code": "KNK",
+    "name": "Kakhonak, Alaska"
+  },
+  {
+    "code": "KNW",
+    "name": "New Stuyahok, Alaska"
+  },
+  {
+    "code": "KOA",
+    "name": "Kailua Kona, Hawaii"
+  },
+  {
+    "code": "KOT",
+    "name": "Kotlik, Alaska"
+  },
+  {
+    "code": "KOY",
+    "name": "Olga Bay, Alaska"
+  },
+  {
+    "code": "KOZ",
+    "name": "Ouzinkie, Alaska"
+  },
+  {
+    "code": "KPB",
+    "name": "Point Baker, Alaska"
+  },
+  {
+    "code": "KPC",
+    "name": "Brevig Mission, Alaska"
+  },
+  {
+    "code": "KPN",
+    "name": "Kipnuk, Alaska"
+  },
+  {
+    "code": "KPR",
+    "name": "Port Williams, Alaska"
+  },
+  {
+    "code": "KPV",
+    "name": "Perryville, Alaska"
+  },
+  {
+    "code": "KPY",
+    "name": "Port Bailey, Alaska"
+  },
+  {
+    "code": "KQA",
+    "name": "Akutan, Alaska"
+  },
+  {
+    "code": "KSM",
+    "name": "Saint Marys, Alaska"
+  },
+  {
+    "code": "KTB",
+    "name": "Thorne Bay, Alaska"
+  },
+  {
+    "code": "KTN",
+    "name": "Ketchikan, Alaska"
+  },
+  {
+    "code": "KTS",
+    "name": "Teller Mission, Alaska"
+  },
+  {
+    "code": "KUK",
+    "name": "Kasigluk, Alaska"
+  },
+  {
+    "code": "KVC",
+    "name": "King Cove, Alaska"
+  },
+  {
+    "code": "KVL",
+    "name": "Kivalina, Alaska"
+  },
+  {
+    "code": "KWK",
+    "name": "Kwigillingok, Alaska"
+  },
+  {
+    "code": "KWN",
+    "name": "Quinhagak, Alaska"
+  },
+  {
+    "code": "KWP",
+    "name": "West Point, Alaska"
+  },
+  {
+    "code": "KWT",
+    "name": "Kwethluk, Alaska"
+  },
+  {
+    "code": "KXA",
+    "name": "Kasaan, Alaska"
+  },
+  {
+    "code": "KYK",
+    "name": "Kodiak, Alaska"
+  },
+  {
+    "code": "KYU",
+    "name": "Koyukuk, Alaska"
+  },
+  {
+    "code": "KZB",
+    "name": "Zachar Bay, Alaska"
+  },
+  {
+    "code": "LAN",
+    "name": "Lansing, Michigan"
+  },
+  {
+    "code": "LAR",
+    "name": "Laramie, Wyoming"
+  },
+  {
+    "code": "LAS",
+    "name": "Las Vegas, Nevada"
+  },
+  {
+    "code": "LAW",
+    "name": "Lawton, Oklahoma"
+  },
+  {
+    "code": "LAX",
+    "name": "Los Angeles, California"
+  },
+  {
+    "code": "LBB",
+    "name": "Lubbock, Texas"
+  },
+  {
+    "code": "LBE",
+    "name": "Latrobe, Pennsylvania"
+  },
+  {
+    "code": "LBF",
+    "name": "North Platte, Nebraska"
+  },
+  {
+    "code": "LBL",
+    "name": "Liberal, Kansas"
+  },
+  {
+    "code": "LCH",
+    "name": "Lake Charles, Louisiana"
+  },
+  {
+    "code": "LCK",
+    "name": "Columbus, Ohio"
+  },
+  {
+    "code": "LEB",
+    "name": "West Lebanon, New Hampshire"
+  },
+  {
+    "code": "LEX",
+    "name": "Lexington, Kentucky"
+  },
+  {
+    "code": "LFT",
+    "name": "Lafayette, Louisiana"
+  },
+  {
+    "code": "LGA",
+    "name": "Flushing, New York"
+  },
+  {
+    "code": "LGB",
+    "name": "Long Beach, California"
+  },
+  {
+    "code": "LIH",
+    "name": "Lihue, Hawaii"
+  },
+  {
+    "code": "LIT",
+    "name": "Little Rock, Arkansas"
+  },
+  {
+    "code": "LKE",
+    "name": "Seattle, Washington"
+  },
+  {
+    "code": "LMA",
+    "name": "Lake Minchumina, Alaska"
+  },
+  {
+    "code": "LMT",
+    "name": "Klamath Falls, Oregon"
+  },
+  {
+    "code": "LNK",
+    "name": "Lincoln, Nebraska"
+  },
+  {
+    "code": "LNY",
+    "name": "Lanai City, Hawaii"
+  },
+  {
+    "code": "LOU",
+    "name": "Louisville, Kentucky"
+  },
+  {
+    "code": "LPS",
+    "name": "Lopez Island, Washington"
+  },
+  {
+    "code": "LRD",
+    "name": "Laredo, Texas"
+  },
+  {
+    "code": "LSE",
+    "name": "La Crosse, Wisconsin"
+  },
+  {
+    "code": "LUF",
+    "name": "Webb, Arizona"
+  },
+  {
+    "code": "LUP",
+    "name": "Kalaupapa, Hawaii"
+  },
+  {
+    "code": "LUR",
+    "name": "Point Hope, Alaska"
+  },
+  {
+    "code": "LWB",
+    "name": "Lewisburg, West Virginia"
+  },
+  {
+    "code": "LWS",
+    "name": "Lewiston, Idaho"
+  },
+  {
+    "code": "LWT",
+    "name": "Lewistown, Montana"
+  },
+  {
+    "code": "LYH",
+    "name": "Lynchburg, Virginia"
+  },
+  {
+    "code": "MAF",
+    "name": "Midland, Texas"
+  },
+  {
+    "code": "MAZ",
+    "name": "Mayaguez, Puerto Rico"
+  },
+  {
+    "code": "MBL",
+    "name": "Manistee, Michigan"
+  },
+  {
+    "code": "MBS",
+    "name": "Freeland, Michigan"
+  },
+  {
+    "code": "MCE",
+    "name": "Merced, California"
+  },
+  {
+    "code": "MCG",
+    "name": "Mcgrath, Alaska"
+  },
+  {
+    "code": "MCI",
+    "name": "Kansas City, Missouri"
+  },
+  {
+    "code": "MCK",
+    "name": "Mccook, Nebraska"
+  },
+  {
+    "code": "MCN",
+    "name": "Macon, Georgia"
+  },
+  {
+    "code": "MCO",
+    "name": "Orlando, Florida"
+  },
+  {
+    "code": "MCW",
+    "name": "Clear Lake, Iowa"
+  },
+  {
+    "code": "MDT",
+    "name": "Middletown, Pennsylvania"
+  },
+  {
+    "code": "MDW",
+    "name": "Chicago, Illinois"
+  },
+  {
+    "code": "MEI",
+    "name": "Meridian, Mississippi"
+  },
+  {
+    "code": "MEM",
+    "name": "Memphis, Tennessee"
+  },
+  {
+    "code": "MFE",
+    "name": "Mcallen, Texas"
+  },
+  {
+    "code": "MFR",
+    "name": "Central Point, Oregon"
+  },
+  {
+    "code": "MGM",
+    "name": "Montgomery, Alabama"
+  },
+  {
+    "code": "MGW",
+    "name": "Morgantown, West Virginia"
+  },
+  {
+    "code": "MHK",
+    "name": "Manhattan, Kansas"
+  },
+  {
+    "code": "MHR",
+    "name": "Mather, California"
+  },
+  {
+    "code": "MHT",
+    "name": "Manchester, New Hampshire"
+  },
+  {
+    "code": "MIA",
+    "name": "Miami, Florida"
+  },
+  {
+    "code": "MKC",
+    "name": "Kansas City, Missouri"
+  },
+  {
+    "code": "MKE",
+    "name": "Milwaukee, Wisconsin"
+  },
+  {
+    "code": "MKG",
+    "name": "Muskegon, Michigan"
+  },
+  {
+    "code": "MKK",
+    "name": "Hoolehua, Hawaii"
+  },
+  {
+    "code": "MLB",
+    "name": "Melbourne, Florida"
+  },
+  {
+    "code": "MLI",
+    "name": "Coal Valley, Illinois"
+  },
+  {
+    "code": "MLL",
+    "name": "Marshall, Alaska"
+  },
+  {
+    "code": "MLU",
+    "name": "Monroe, Louisiana"
+  },
+  {
+    "code": "MLY",
+    "name": "Manley Hot Springs, Alaska"
+  },
+  {
+    "code": "MMH",
+    "name": "Mammoth Lakes, California"
+  },
+  {
+    "code": "MNT",
+    "name": "Minto, Alaska"
+  },
+  {
+    "code": "MOB",
+    "name": "Mobile, Alabama"
+  },
+  {
+    "code": "MOD",
+    "name": "Modesto, California"
+  },
+  {
+    "code": "MOT",
+    "name": "Minot, North Dakota"
+  },
+  {
+    "code": "MOU",
+    "name": "Mountain Village, Alaska"
+  },
+  {
+    "code": "MQT",
+    "name": "Marquette, Michigan"
+  },
+  {
+    "code": "MRY",
+    "name": "Monterey, California"
+  },
+  {
+    "code": "MSL",
+    "name": "Muscle Shoals, Alabama"
+  },
+  {
+    "code": "MSN",
+    "name": "Madison, Wisconsin"
+  },
+  {
+    "code": "MSO",
+    "name": "Missoula, Montana"
+  },
+  {
+    "code": "MSP",
+    "name": "St. Paul, Minnesota"
+  },
+  {
+    "code": "MSS",
+    "name": "Massena, New York"
+  },
+  {
+    "code": "MSY",
+    "name": "Kenner, Louisiana"
+  },
+  {
+    "code": "MTJ",
+    "name": "Montrose, Colorado"
+  },
+  {
+    "code": "MTM",
+    "name": "Metlakatla, Alaska"
+  },
+  {
+    "code": "MUE",
+    "name": "Kamuela, Hawaii"
+  },
+  {
+    "code": "MVY",
+    "name": "Vineyard Haven, Massachusetts"
+  },
+  {
+    "code": "MWA",
+    "name": "Marion, Illinois"
+  },
+  {
+    "code": "MYL",
+    "name": "Mccall, Idaho"
+  },
+  {
+    "code": "MYR",
+    "name": "Myrtle Beach, South Carolina"
+  },
+  {
+    "code": "MYU",
+    "name": "Mekoryuk, Alaska"
+  },
+  {
+    "code": "NCN",
+    "name": "New Chenega, Alaska"
+  },
+  {
+    "code": "NIB",
+    "name": "Nikolai, Alaska"
+  },
+  {
+    "code": "NIP",
+    "name": "Jacksonville, Florida"
+  },
+  {
+    "code": "NIU",
+    "name": "Honolulu, Hawaii"
+  },
+  {
+    "code": "NKI",
+    "name": "Naukiti, Alaska"
+  },
+  {
+    "code": "NLG",
+    "name": "Nelson Lagoon, Alaska"
+  },
+  {
+    "code": "NME",
+    "name": "Nightmute, Alaska"
+  },
+  {
+    "code": "NNL",
+    "name": "Nondalton, Alaska"
+  },
+  {
+    "code": "NUI",
+    "name": "Nuiqsut, Alaska"
+  },
+  {
+    "code": "NUL",
+    "name": "Nulato, Alaska"
+  },
+  {
+    "code": "NUP",
+    "name": "Nunapitchuk, Alaska"
+  },
+  {
+    "code": "NYA",
+    "name": "Norwood Young America, Minnesota"
+  },
+  {
+    "code": "OAJ",
+    "name": "Richlands, North Carolina"
+  },
+  {
+    "code": "OAK",
+    "name": "Oakland, California"
+  },
+  {
+    "code": "OBU",
+    "name": "Kobuk, Alaska"
+  },
+  {
+    "code": "ODW",
+    "name": "Oak Harbor, Washington"
+  },
+  {
+    "code": "OGG",
+    "name": "Kahului, Hawaii"
+  },
+  {
+    "code": "OGS",
+    "name": "Ogdensburg, New York"
+  },
+  {
+    "code": "OKC",
+    "name": "Oklahoma City, Oklahoma"
+  },
+  {
+    "code": "OLF",
+    "name": "Wolf Point, Montana"
+  },
+  {
+    "code": "OLH",
+    "name": "Old Harbor, Alaska"
+  },
+  {
+    "code": "OMA",
+    "name": "Omaha, Nebraska"
+  },
+  {
+    "code": "OME",
+    "name": "Nome, Alaska"
+  },
+  {
+    "code": "ONL",
+    "name": "O'neill, Nebraska"
+  },
+  {
+    "code": "ONT",
+    "name": "Ontario, California"
+  },
+  {
+    "code": "OOK",
+    "name": "Toksook Bay, Alaska"
+  },
+  {
+    "code": "OPF",
+    "name": "Opa-Locka, Florida"
+  },
+  {
+    "code": "ORD",
+    "name": "Chicago, Illinois"
+  },
+  {
+    "code": "ORF",
+    "name": "Norfolk, Virginia"
+  },
+  {
+    "code": "ORH",
+    "name": "Worcester, Massachusetts"
+  },
+  {
+    "code": "ORI",
+    "name": "Port Lions, Alaska"
+  },
+  {
+    "code": "ORV",
+    "name": "Noorvik, Alaska"
+  },
+  {
+    "code": "OTH",
+    "name": "North Bend, Oregon"
+  },
+  {
+    "code": "OTZ",
+    "name": "Kotzebue, Alaska"
+  },
+  {
+    "code": "OVS",
+    "name": "Boscobel, Wisconsin"
+  },
+  {
+    "code": "OXR",
+    "name": "Oxnard, California"
+  },
+  {
+    "code": "PAH",
+    "name": "West Paducah, Kentucky"
+  },
+  {
+    "code": "PBG",
+    "name": "Plattsburgh, New York"
+  },
+  {
+    "code": "PBI",
+    "name": "West Palm Beach, Florida"
+  },
+  {
+    "code": "PCE",
+    "name": "Painter Creek, Alaska"
+  },
+  {
+    "code": "PDB",
+    "name": "Pedro Bay, Alaska"
+  },
+  {
+    "code": "PDT",
+    "name": "Pendleton, Oregon"
+  },
+  {
+    "code": "PDX",
+    "name": "Portland, Oregon"
+  },
+  {
+    "code": "PEC",
+    "name": "Pelican, Alaska"
+  },
+  {
+    "code": "PFN",
+    "name": "Panama City, Florida"
+  },
+  {
+    "code": "PGA",
+    "name": "Page, Arizona"
+  },
+  {
+    "code": "PGM",
+    "name": "Port Graham, Alaska"
+  },
+  {
+    "code": "PGV",
+    "name": "Greenville, North Carolina"
+  },
+  {
+    "code": "PHF",
+    "name": "Newport News, Virginia"
+  },
+  {
+    "code": "PHL",
+    "name": "Philadelphia, Pennsylvania"
+  },
+  {
+    "code": "PHO",
+    "name": "Point Hope, Alaska"
+  },
+  {
+    "code": "PHX",
+    "name": "Phoenix, Arizona"
+  },
+  {
+    "code": "PIA",
+    "name": "Peoria, Illinois"
+  },
+  {
+    "code": "PIB",
+    "name": "Moselle, Mississippi"
+  },
+  {
+    "code": "PIE",
+    "name": "Clearwater, Florida"
+  },
+  {
+    "code": "PIH",
+    "name": "Pocatello, Idaho"
+  },
+  {
+    "code": "PIP",
+    "name": "Pilot Point, Alaska"
+  },
+  {
+    "code": "PIR",
+    "name": "Pierre, South Dakota"
+  },
+  {
+    "code": "PIT",
+    "name": "Coraopolis, Pennsylvania"
+  },
+  {
+    "code": "PIZ",
+    "name": "Point Lay, Alaska"
+  },
+  {
+    "code": "PKA",
+    "name": "Napaskiak, Alaska"
+  },
+  {
+    "code": "PKB",
+    "name": "Williamstown, West Virginia"
+  },
+  {
+    "code": "PLN",
+    "name": "Pellston, Michigan"
+  },
+  {
+    "code": "PMD",
+    "name": "Palmdale, California"
+  },
+  {
+    "code": "PML",
+    "name": "Port Moller, Alaska"
+  },
+  {
+    "code": "PNS",
+    "name": "Pensacola, Florida"
+  },
+  {
+    "code": "PPG",
+    "name": "Pago Pago, American Samoa"
+  },
+  {
+    "code": "PPV",
+    "name": "Port Protection, Alaska"
+  },
+  {
+    "code": "PQI",
+    "name": "Presque Isle, Maine"
+  },
+  {
+    "code": "PQS",
+    "name": "Pilot Station, Alaska"
+  },
+  {
+    "code": "PRC",
+    "name": "Prescott, Arizona"
+  },
+  {
+    "code": "PSC",
+    "name": "Pasco, Washington"
+  },
+  {
+    "code": "PSE",
+    "name": "Coto Laurel, Puerto Rico"
+  },
+  {
+    "code": "PSG",
+    "name": "Petersburg, Alaska"
+  },
+  {
+    "code": "PSP",
+    "name": "Palm Springs, California"
+  },
+  {
+    "code": "PTA",
+    "name": "Port Alsworth, Alaska"
+  },
+  {
+    "code": "PTH",
+    "name": "Port Heiden, Alaska"
+  },
+  {
+    "code": "PTU",
+    "name": "Platinum, Alaska"
+  },
+  {
+    "code": "PUB",
+    "name": "Pueblo, Colorado"
+  },
+  {
+    "code": "PUW",
+    "name": "Pullman, Washington"
+  },
+  {
+    "code": "PVC",
+    "name": "Provincetown, Massachusetts"
+  },
+  {
+    "code": "PVD",
+    "name": "Warwick, Rhode Island"
+  },
+  {
+    "code": "PWK",
+    "name": "Wheeling, Illinois"
+  },
+  {
+    "code": "PWM",
+    "name": "Portland, Maine"
+  },
+  {
+    "code": "QUL",
+    "name": "Qulin, Missouri"
+  },
+  {
+    "code": "RAP",
+    "name": "Rapid City, South Dakota"
+  },
+  {
+    "code": "RBH",
+    "name": "Brooks Lodge, Alaska"
+  },
+  {
+    "code": "RBX",
+    "name": "Roundup, Montana"
+  },
+  {
+    "code": "RBY",
+    "name": "Ruby, Alaska"
+  },
+  {
+    "code": "RCE",
+    "name": "Friday Harbor, Washington"
+  },
+  {
+    "code": "RCP",
+    "name": "Cinder River, Alaska"
+  },
+  {
+    "code": "RDB",
+    "name": "Red Dog, Alaska"
+  },
+  {
+    "code": "RDD",
+    "name": "Redding, California"
+  },
+  {
+    "code": "RDM",
+    "name": "Redmond, Oregon"
+  },
+  {
+    "code": "RDU",
+    "name": "Raleigh\/Durham, North Carolina"
+  },
+  {
+    "code": "RDV",
+    "name": "Red Devil, Alaska"
+  },
+  {
+    "code": "RFD",
+    "name": "Rockford, Illinois"
+  },
+  {
+    "code": "RHI",
+    "name": "Rhinelander, Wisconsin"
+  },
+  {
+    "code": "RIC",
+    "name": "Richmond, Virginia"
+  },
+  {
+    "code": "RIV",
+    "name": "Alessandro, California"
+  },
+  {
+    "code": "RIW",
+    "name": "Riverton, Wyoming"
+  },
+  {
+    "code": "RKD",
+    "name": "Owls Head, Maine"
+  },
+  {
+    "code": "RKS",
+    "name": "Rock Springs, Wyoming"
+  },
+  {
+    "code": "RMP",
+    "name": "Rampart, Alaska"
+  },
+  {
+    "code": "RNO",
+    "name": "Reno, Nevada"
+  },
+  {
+    "code": "ROA",
+    "name": "Roanoke, Virginia"
+  },
+  {
+    "code": "ROC",
+    "name": "Rochester, New York"
+  },
+  {
+    "code": "ROP",
+    "name": "Rota, Northern Mariana Islands"
+  },
+  {
+    "code": "ROW",
+    "name": "Roswell, New Mexico"
+  },
+  {
+    "code": "RSH",
+    "name": "Russian Mission, Alaska"
+  },
+  {
+    "code": "RSJ",
+    "name": "Olga, Washington"
+  },
+  {
+    "code": "RST",
+    "name": "Rochester, Minnesota"
+  },
+  {
+    "code": "RSW",
+    "name": "Fort Myers, Florida"
+  },
+  {
+    "code": "RUT",
+    "name": "North Clarendon, Vermont"
+  },
+  {
+    "code": "SAN",
+    "name": "San Diego, California"
+  },
+  {
+    "code": "SAT",
+    "name": "San Antonio, Texas"
+  },
+  {
+    "code": "SAV",
+    "name": "Savannah, Georgia"
+  },
+  {
+    "code": "SBA",
+    "name": "Goleta, California"
+  },
+  {
+    "code": "SBN",
+    "name": "South Bend, Indiana"
+  },
+  {
+    "code": "SBP",
+    "name": "San Luis Obispo, California"
+  },
+  {
+    "code": "SBY",
+    "name": "Salisbury, Maryland"
+  },
+  {
+    "code": "SCC",
+    "name": "Prudhoe Bay, Alaska"
+  },
+  {
+    "code": "SCE",
+    "name": "State College, Pennsylvania"
+  },
+  {
+    "code": "SCK",
+    "name": "Stockton, California"
+  },
+  {
+    "code": "SCM",
+    "name": "Scammon Bay, Alaska"
+  },
+  {
+    "code": "SDF",
+    "name": "Louisville, Kentucky"
+  },
+  {
+    "code": "SDP",
+    "name": "Sand Point, Alaska"
+  },
+  {
+    "code": "SDY",
+    "name": "Sidney, Montana"
+  },
+  {
+    "code": "SEA",
+    "name": "Seattle, Washington"
+  },
+  {
+    "code": "SFB",
+    "name": "Sanford, Florida"
+  },
+  {
+    "code": "SFO",
+    "name": "San Francisco, California"
+  },
+  {
+    "code": "SGF",
+    "name": "Springfield, Missouri"
+  },
+  {
+    "code": "SGU",
+    "name": "St. George, Utah"
+  },
+  {
+    "code": "SGY",
+    "name": "Skagway, Alaska"
+  },
+  {
+    "code": "SHD",
+    "name": "Weyers Cave, Virginia"
+  },
+  {
+    "code": "SHG",
+    "name": "Shungnak, Alaska"
+  },
+  {
+    "code": "SHH",
+    "name": "Shishmaref, Alaska"
+  },
+  {
+    "code": "SHR",
+    "name": "Sheridan, Wyoming"
+  },
+  {
+    "code": "SHV",
+    "name": "Shreveport, Louisiana"
+  },
+  {
+    "code": "SHX",
+    "name": "Shageluk, Alaska"
+  },
+  {
+    "code": "SIG",
+    "name": "San Juan, Puerto Rico"
+  },
+  {
+    "code": "SIT",
+    "name": "Sitka, Alaska"
+  },
+  {
+    "code": "SJC",
+    "name": "San Jose, California"
+  },
+  {
+    "code": "SJT",
+    "name": "San Angelo, Texas"
+  },
+  {
+    "code": "SJU",
+    "name": "Carolina, Puerto Rico"
+  },
+  {
+    "code": "SKK",
+    "name": "Shaktoolik, Alaska"
+  },
+  {
+    "code": "SLC",
+    "name": "Salt Lake City, Utah"
+  },
+  {
+    "code": "SLE",
+    "name": "Salem, Oregon"
+  },
+  {
+    "code": "SLK",
+    "name": "Saranac Lake, New York"
+  },
+  {
+    "code": "SLN",
+    "name": "Salina, Kansas"
+  },
+  {
+    "code": "SLQ",
+    "name": "Sleetmute, Alaska"
+  },
+  {
+    "code": "SMF",
+    "name": "Sacramento, California"
+  },
+  {
+    "code": "SMK",
+    "name": "St Michael, Alaska"
+  },
+  {
+    "code": "SMN",
+    "name": "Salmon, Idaho"
+  },
+  {
+    "code": "SMX",
+    "name": "Santa Maria, California"
+  },
+  {
+    "code": "SNA",
+    "name": "Santa Ana, California"
+  },
+  {
+    "code": "SNP",
+    "name": "Saint Paul Island, Alaska"
+  },
+  {
+    "code": "SOV",
+    "name": "Seldovia, Alaska"
+  },
+  {
+    "code": "SOW",
+    "name": "Show Low, Arizona"
+  },
+  {
+    "code": "SPB",
+    "name": "Charlotte Amalie, US Virgin Islands"
+  },
+  {
+    "code": "SPI",
+    "name": "Springfield, Illinois"
+  },
+  {
+    "code": "SPN",
+    "name": "Saipan, Northern Mariana Islands"
+  },
+  {
+    "code": "SPS",
+    "name": "Wichita Falls, Texas"
+  },
+  {
+    "code": "SRQ",
+    "name": "Sarasota, Florida"
+  },
+  {
+    "code": "SRV",
+    "name": "Stony River, Alaska"
+  },
+  {
+    "code": "SSB",
+    "name": "Christiansted, US Virgin Islands"
+  },
+  {
+    "code": "STC",
+    "name": "St. Cloud, Minnesota"
+  },
+  {
+    "code": "STG",
+    "name": "St George Island, Alaska"
+  },
+  {
+    "code": "STL",
+    "name": "St. Louis, Missouri"
+  },
+  {
+    "code": "STS",
+    "name": "Windsor, California"
+  },
+  {
+    "code": "STT",
+    "name": "Charlotte Amalie, US Virgin Islands"
+  },
+  {
+    "code": "STX",
+    "name": "Frederiksted, US Virgin Islands"
+  },
+  {
+    "code": "SUN",
+    "name": "Hailey, Idaho"
+  },
+  {
+    "code": "SUX",
+    "name": "Sioux City, Iowa"
+  },
+  {
+    "code": "SVA",
+    "name": "Savoonga, Alaska"
+  },
+  {
+    "code": "SVC",
+    "name": "Silver City, New Mexico"
+  },
+  {
+    "code": "SVS",
+    "name": "Stevens Village, Alaska"
+  },
+  {
+    "code": "SWF",
+    "name": "New Windsor, New York"
+  },
+  {
+    "code": "SWO",
+    "name": "Stillwater, Oklahoma"
+  },
+  {
+    "code": "SXP",
+    "name": "Sheldon Point, Alaska"
+  },
+  {
+    "code": "SYB",
+    "name": "Kodiak, Alaska"
+  },
+  {
+    "code": "SYR",
+    "name": "Syracuse, New York"
+  },
+  {
+    "code": "TAL",
+    "name": "Tanana, Alaska"
+  },
+  {
+    "code": "TBN",
+    "name": "Fort Leonard Wood, Missouri"
+  },
+  {
+    "code": "TCT",
+    "name": "Takotna, Alaska"
+  },
+  {
+    "code": "TEB",
+    "name": "Teterboro, New Jersey"
+  },
+  {
+    "code": "TEK",
+    "name": "Valdez, Alaska"
+  },
+  {
+    "code": "TEX",
+    "name": "Telluride, Colorado"
+  },
+  {
+    "code": "TGC",
+    "name": "Milan, Tennessee"
+  },
+  {
+    "code": "TKE",
+    "name": "Tenakee Springs, Alaska"
+  },
+  {
+    "code": "TKJ",
+    "name": "Tok, Alaska"
+  },
+  {
+    "code": "TLA",
+    "name": "Teller, Alaska"
+  },
+  {
+    "code": "TLH",
+    "name": "Tallahassee, Florida"
+  },
+  {
+    "code": "TLJ",
+    "name": "Tatalina, Alaska"
+  },
+  {
+    "code": "TLT",
+    "name": "Tuluksak, Alaska"
+  },
+  {
+    "code": "TNC",
+    "name": "Tin City, Alaska"
+  },
+  {
+    "code": "TNK",
+    "name": "Tununak, Alaska"
+  },
+  {
+    "code": "TOG",
+    "name": "Togiak Village, Alaska"
+  },
+  {
+    "code": "TOL",
+    "name": "Swanton, Ohio"
+  },
+  {
+    "code": "TPA",
+    "name": "Tampa, Florida"
+  },
+  {
+    "code": "TRI",
+    "name": "Blountville, Tennessee"
+  },
+  {
+    "code": "TSS",
+    "name": "New York, New York"
+  },
+  {
+    "code": "TUL",
+    "name": "Tulsa, Oklahoma"
+  },
+  {
+    "code": "TUP",
+    "name": "Tupelo, Mississippi"
+  },
+  {
+    "code": "TUS",
+    "name": "Tucson, Arizona"
+  },
+  {
+    "code": "TVC",
+    "name": "Traverse City, Michigan"
+  },
+  {
+    "code": "TVF",
+    "name": "Thief River Falls, Minnesota"
+  },
+  {
+    "code": "TWA",
+    "name": "Twin Hills, Alaska"
+  },
+  {
+    "code": "TWF",
+    "name": "Twin Falls, Idaho"
+  },
+  {
+    "code": "TXK",
+    "name": "Texarkana, Arkansas"
+  },
+  {
+    "code": "TYR",
+    "name": "Tyler, Texas"
+  },
+  {
+    "code": "TYS",
+    "name": "Knoxville, Tennessee"
+  },
+  {
+    "code": "UGB",
+    "name": "Pilot Point, Alaska"
+  },
+  {
+    "code": "UGI",
+    "name": "Kodiak, Alaska"
+  },
+  {
+    "code": "UIN",
+    "name": "Quincy, Illinois"
+  },
+  {
+    "code": "UNK",
+    "name": "Unalakleet, Alaska"
+  },
+  {
+    "code": "VAK",
+    "name": "Hooper Bay, Alaska"
+  },
+  {
+    "code": "VBM",
+    "name": "Blue Mountain, Alaska"
+  },
+  {
+    "code": "VCT",
+    "name": "Victoria, Texas"
+  },
+  {
+    "code": "VCV",
+    "name": "Victorville, California"
+  },
+  {
+    "code": "VDZ",
+    "name": "Valdez, Alaska"
+  },
+  {
+    "code": "VEE",
+    "name": "Venetie, Alaska"
+  },
+  {
+    "code": "VEL",
+    "name": "Vernal, Utah"
+  },
+  {
+    "code": "VIS",
+    "name": "Visalia, California"
+  },
+  {
+    "code": "VLD",
+    "name": "Valdosta, Georgia"
+  },
+  {
+    "code": "VPS",
+    "name": "Eglin Village, Florida"
+  },
+  {
+    "code": "VQS",
+    "name": "Puerto Ferro, Puerto Rico"
+  },
+  {
+    "code": "WAA",
+    "name": "Wales, Alaska"
+  },
+  {
+    "code": "WBB",
+    "name": "Stebbins, Alaska"
+  },
+  {
+    "code": "WBQ",
+    "name": "Beaver, Alaska"
+  },
+  {
+    "code": "WKK",
+    "name": "Aleknagik, Alaska"
+  },
+  {
+    "code": "WLK",
+    "name": "Selawik, Alaska"
+  },
+  {
+    "code": "WMK",
+    "name": "Meyers Chuck, Alaska"
+  },
+  {
+    "code": "WMO",
+    "name": "White Mountain, Alaska"
+  },
+  {
+    "code": "WNA",
+    "name": "Napakiak, Alaska"
+  },
+  {
+    "code": "WRG",
+    "name": "Wrangell, Alaska"
+  },
+  {
+    "code": "WRL",
+    "name": "Worland, Wyoming"
+  },
+  {
+    "code": "WSN",
+    "name": "South Naknek, Alaska"
+  },
+  {
+    "code": "WST",
+    "name": "Westerly, Rhode Island"
+  },
+  {
+    "code": "WSX",
+    "name": "Westsound, Washington"
+  },
+  {
+    "code": "WTK",
+    "name": "Noatak, Alaska"
+  },
+  {
+    "code": "WTL",
+    "name": "Tuntutuliak, Alaska"
+  },
+  {
+    "code": "WWP",
+    "name": "Whale Pass, Alaska"
+  },
+  {
+    "code": "WWT",
+    "name": "Newtok, Alaska"
+  },
+  {
+    "code": "WYS",
+    "name": "West Yellowstone, Montana"
+  },
+  {
+    "code": "XNA",
+    "name": "Bentonville, Arkansas"
+  },
+  {
+    "code": "XNY",
+    "name": "New York, New York"
+  },
+  {
+    "code": "XVG",
+    "name": "Longville, Minnesota"
+  },
+  {
+    "code": "XZU",
+    "name": "Rail (Generic), Missouri"
+  },
+  {
+    "code": "YAK",
+    "name": "Yakutat, Alaska"
+  },
+  {
+    "code": "YIP",
+    "name": "Ypsilanti, Michigan"
+  },
+  {
+    "code": "YKM",
+    "name": "Yakima, Washington"
+  },
+  {
+    "code": "YNG",
+    "name": "Vienna, Ohio"
+  },
+  {
+    "code": "YUM",
+    "name": "Yuma, Arizona"
+  },
+  {
+    "code": "ZBP",
+    "name": "Baltimore, Maryland"
+  },
+  {
+    "code": "ZFV",
+    "name": "Philadelphia, Pennsylvania"
+  },
+  {
+    "code": "ZFZ",
+    "name": "Buffalo, New York"
+  },
+  {
+    "code": "ZGD",
+    "name": "Groton, Connecticut"
+  },
+  {
+    "code": "ZHO",
+    "name": "Houston, Texas"
+  },
+  {
+    "code": "ZLY",
+    "name": "Albany, New York"
+  },
+  {
+    "code": "ZME",
+    "name": "Newark, New Jersey"
+  },
+  {
+    "code": "ZML",
+    "name": "Milwaukee, Wisconsin"
+  },
+  {
+    "code": "ZRD",
+    "name": "Richmond, Virginia"
+  },
+  {
+    "code": "ZRL",
+    "name": "Lancaster, Pennsylvania"
+  },
+  {
+    "code": "ZRP",
+    "name": "Newark, New Jersey"
+  },
+  {
+    "code": "ZRT",
+    "name": "Hartford, Connecticut"
+  },
+  {
+    "code": "ZRU",
+    "name": "Boston, Massachusetts"
+  },
+  {
+    "code": "ZRV",
+    "name": "Providence, Rhode Island"
+  },
+  {
+    "code": "ZSF",
+    "name": "Springfield, Massachusetts"
+  },
+  {
+    "code": "ZTD",
+    "name": "Schenectady, New York"
+  },
+  {
+    "code": "ZTE",
+    "name": "Rochester, New York"
+  },
+  {
+    "code": "ZTF",
+    "name": "Stamford, Connecticut"
+  },
+  {
+    "code": "ZTJ",
+    "name": "Princeton, New Jersey"
+  },
+  {
+    "code": "ZTN",
+    "name": "Philadelphia, New Jersey"
+  },
+  {
+    "code": "ZTO",
+    "name": "Boston, Massachusetts"
+  },
+  {
+    "code": "ZTV",
+    "name": "Louisville, Kentucky"
+  },
+  {
+    "code": "ZTY",
+    "name": "Boston, Massachusetts"
+  },
+  {
+    "code": "ZUA",
+    "name": "Utica, New York"
+  },
+  {
+    "code": "ZUG",
+    "name": "Harrisburg, Pennsylvania"
+  },
+  {
+    "code": "ZUN",
+    "name": "Zuni, New Mexico"
+  },
+  {
+    "code": "ZVE",
+    "name": "New Haven, Connecticut"
+  },
+  {
+    "code": "ZWB",
+    "name": "Hampton, Virginia"
+  },
+  {
+    "code": "ZWI",
+    "name": "Wilmington, Pennsylvania"
+  },
+  {
+    "code": "ZWU",
+    "name": "Washington, Virginia"
+  },
+  {
+    "code": "ZWV",
+    "name": "Glenview, Illinois"
+  },
+  {
+    "code": "ZWW",
+    "name": "Hampton, Virginia"
+  },
+  {
+    "code": "ZYP",
+    "name": "New York, New York"
+  },
+  {
+    "code": "ZYQ",
+    "name": "Syracuse, New York"
+  }
+]
