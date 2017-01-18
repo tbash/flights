@@ -1,8 +1,7 @@
 /*
  *
  * Form
- *
- */
+ * */
 
 import React from 'react';
 import { connect } from 'react-redux';
@@ -13,7 +12,7 @@ import { selectAirports, selectUser } from '../App/selectors';
 import Button from '../../components/Button';
 import User from '../../components/User';
 
-const Form = ({ user, ...props }) => {
+const Form = ({ user, airports }) => {
   const truncate = (name) => {
     if (name.length < 13) return name
     return name.substring(0,13)+"..."
@@ -27,7 +26,7 @@ const Form = ({ user, ...props }) => {
         <br />
         <select>
           <option defaultValue="0">some place</option>
-          {props.airports.map((state) => (
+          {airports.map((state) => (
             <option key={state.code} value={state.code}>{truncate(state.name)}</option>
           ))}
         </select>

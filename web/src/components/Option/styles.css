@@ -1,0 +1,20 @@
+.option {
+  width: 90%;
+  margin: 0.3em auto 0 auto;
+  font-size: 3em;
+  line-height: 1.5;
+  border-bottom: solid 1px;
+}
+
+@media screen and (max-width: 45em) {
+  .option {
+    font-size: 2em;
+  }
+}
+
+@media screen and (max-width: 25em) {
+  .option {
+    font-size: 1em;
+  }
+}
+

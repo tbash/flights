@@ -10,11 +10,22 @@ import selectApp from './selectors';
 import './styles.css';
 
 import Form from '../Form';
+import Options from '../Options';
 
-const App = (props) => {
+const App = ({ token, options }) => {
+  let content = (<div/>);
+
+  if (!!token) {
+    content = (<Form />);
+  }
+
+  if (!!options) {
+    content = (<Options options={options} />);
+  }
+
   return (
     <div className="app">
-      <Form />
+      {content}
     </div>
   );
 }
