@@ -1,18 +1,10 @@
 import 'whatwg-fetch';
 
-export default function request(url, options) {
-  return fetch(url, options)
-    .then(checkStatus)
-    .then(parseJSON)
-    .then((data) => ({ data }))
-    .catch((err) => ({ err }));
-}
-
-function parseJSON(response) {
+const parseJSON = (response) => {
   return response.json();
 }
 
-function checkStatus(response) {
+const checkStatus = (response) => {
   if (response.status >= 200 && response.status < 300) {
     return response;
   }
@@ -21,3 +13,13 @@ function checkStatus(response) {
   error.response = response;
   throw error;
 }
+
+const request = (url, options) => {
+  return fetch(url, options)
+    .then(checkStatus)
+    .then(parseJSON)
+    .then((data) => ({ data }))
+    .catch((err) => ({ err }));
+}
+
+export default request;
