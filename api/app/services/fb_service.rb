@@ -60,7 +60,7 @@ module FbService
 
         u = UserService::FindOrCreate.call({
           name: user_res["name"],
-          fb_id: user_res["fb_id"],
+          fb_id: user_res["id"],
           picture: user_res.dig("picture", "data", "url"),
         })
 
