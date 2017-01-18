@@ -9,32 +9,33 @@ module TripSearchService
       end
 
       def parse_flights(body)
-        options  = body.dig(:trips, :tripOption)
-        carriers = body.dig(:trips, :data, :carrier)
+        p body
+        options  = body.dig("trips", "tripOption")
+        carriers = body.dig("trips", "data", "carrier")
 
         options.map do |o|
 
-          segment = o[:slice].first[:segment].first
-          flight  = segment[:flight]
-          carrier = carriers.select { |c| c[:code] == flight[:carrier] }.first
-          leg     = segment[:leg].first
+          segment = o["slice"].first["segment"].first
+          flight  = segment["flight"]
+          carrier = carriers.select { |c| c["code"] == flight["carrier"] }.first
+          leg     = segment["leg"].first
 
           {
-            carrier: carrier[:name],
-            flight_number: flight[:number],
-            price: o[:saleTotal].tr('A-Z', '').to_f,
-            origin: leg[:origin],
-            destination: leg[:destination],
-            duration: leg[:duration],
-            arrival_at: leg[:arrivalTime],
-            departure_at: leg[:departureTime],
+            carrier: carrier["name"],
+            flight_number: flight["number"],
+            price: o["saleTotal"].tr('A-Z', '').to_f,
+            origin: leg["origin"],
+            destination: leg["destination"],
+            duration: leg["duration"],
+            arrival_at: leg["arrivalTime"],
+            departure_at: leg["departureTime"],
           }
         end
       rescue
-        {error: "failed to parse response"}
+        []
       end
 
-      def build_params(**params)
+      def build_params(params = {})
         {
           request: {
             passengers: {
@@ -54,7 +55,7 @@ module TripSearchService
         }.to_json
       end
 
-      def call(**params)
+      def call(params = {})
         res = HTTParty.post(
           build_url,
           body: build_params(params),
