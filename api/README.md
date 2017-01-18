@@ -16,7 +16,7 @@ response
 {
   "token": "Bearer 1708902059422827:EAAO7hPZCLwuYBAOxwWc6GFE8RSwQWbXokdRo2IWg0nWmjNO65yc3VoRBBl5JUZA98UJy894k5uvIygLQP3yvScm6D15WWOSZABnQ1fHYZAEfrUtc4Kg0m20y2pDUmxPZAxW8wn6TZCxo9sCXvsYLZA4z0SwJCpRN7UZD",
   "user": {
-    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/11214332_1444286842551018_4483182614040773779_n.jpg?oh=e20f26e31643bd73d4472d89e3dac1f6&oe=58DB1C17",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-1/p320x320/11214332_1444286842551018_4483182614040773779_n.jpg?oh=ceeab6afdac6b5d8540c3e42b30af678&oe=590AC7C9",
     "name": "TB Ashley"
   }
 }
