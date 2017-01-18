@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: var(--DARK);
+  color: white;
+}
+
+:root {
+  min-height: 100%;
+  min-width: 100%;
+  --RED:    #FF7473;
+  --YELLOW: #FFC952;
+  --BLUE:   #47B8E0;
+  --DARK:   #34314C;
+}
+
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
