@@ -10,7 +10,9 @@ import './styles.css';
 
 const Button = ({ onClick, text }) => {
   return (
-    <button className="button">{text || "INSERT TEXT!"}</button>
+    <button onClick={onClick} className="button">
+      {text || "INSERT TEXT!"}
+    </button>
   );
 }
 

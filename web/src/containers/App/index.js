@@ -9,12 +9,12 @@ import { connect } from 'react-redux';
 import selectApp from './selectors';
 import './styles.css';
 
-import Button from '../../components/Button';
+import Form from '../Form';
 
 const App = (props) => {
   return (
     <div className="app">
-      <Button/>
+      <Form />
     </div>
   );
 }

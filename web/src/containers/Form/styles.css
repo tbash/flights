@@ -1,0 +1,46 @@
+.form__container {
+}
+
+.form {
+  width: 100%;
+  margin: 0.3em auto 0 auto;
+  font-size: 4em;
+  line-height: 1.5;
+}
+
+.form select {
+  border: none;
+  background: transparent;
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  appearance: none;
+}
+
+.form input:focus {
+  outline: none;
+}
+
+.form select  {
+  line-height: inherit;
+  color: var(--YELLOW);
+  cursor: pointer;
+  border-bottom: 1px dashed var(--YELLOW);
+}
+
+@media screen and (max-width: 45em) {
+  .form {
+    font-size: 3em;
+  }
+}
+
+@media screen and (max-width: 25em) {
+  .form {
+    font-size: 2em;
+  }
+}
