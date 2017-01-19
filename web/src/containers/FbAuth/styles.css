@@ -1,0 +1,18 @@
+.fb-auth {
+  font-size: 2em;
+  padding-top: 3em;
+}
+
+.fb-auth__wrapper {
+  width: 400px;
+  margin: auto;
+  border: solid 2px;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+
+.fb-auth__wrapper:hover {
+  color: var(--DARK);
+  background-color: white;
+}
+

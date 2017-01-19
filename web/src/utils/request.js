@@ -1,5 +1,7 @@
 import 'whatwg-fetch';
 
+const API_ROOT = process.env.REACT_APP_API_ROOT
+
 const parseJSON = (response) => {
   return response.json();
 }
@@ -14,8 +16,8 @@ const checkStatus = (response) => {
   throw error;
 }
 
-const request = (url, options) => {
-  return fetch(url, options)
+const request = (uri, options) => {
+  return fetch(`${API_ROOT}${uri}`, options)
     .then(checkStatus)
     .then(parseJSON)
     .then((data) => ({ data }))

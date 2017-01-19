@@ -18,3 +18,13 @@ body {
 .app {
   text-align: center;
 }
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:focus, a:hover {
+  color: white;
+}
+

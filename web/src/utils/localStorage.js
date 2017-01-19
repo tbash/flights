@@ -1,11 +1,11 @@
-export function setItem(...args) {
+export const setItem = (...args) => {
   localStorage.setItem(...args);
 }
 
-export function getItem(...args) {
-  localStorage.getItem(...args);
+export const getItem = (...args) => {
+  return localStorage.getItem(...args);
 }
 
-export function removeItem(...args) {
+export const removeItem = (...args) => {
   localStorage.removeItem(...args);
 }

@@ -5,11 +5,13 @@
  */
 
 import {
-  DEFAULT_ACTION,
+  SET_USER,
 } from './constants';
 
-export function defaultAction() {
-  return {
-    type: DEFAULT_ACTION,
-  };
-}
+export const setUser = ({ token, user }) => ({
+  type: SET_USER,
+  payload: {
+    token,
+    user
+  }
+});

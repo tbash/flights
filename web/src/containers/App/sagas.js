@@ -1,11 +1,62 @@
-import { take } from 'redux-saga/effects';
+import { fork, take, select, call, put } from 'redux-saga/effects';
 import {
-  DEFAULT_ACTION,
+  SEARCH_REQUEST
 } from './constants';
+import { setUser } from './actions';
+import { selectAuthToken } from './selectors';
+import { getItem, setItem } from '../../utils/localStorage';
+import { unauthedRequest, authedRequest } from '../../utils/api';
 
-// Individual exports for testing
-export default function* defaultSaga() {
-  while (true) {
-    yield take(DEFAULT_ACTION)
+export function* authenticate(token, user){
+  yield put(setUser({ token, user }));
+}
+
+export function* authFlow() {
+  const token = yield call(getItem, 'token');
+
+  if (!!token) {
+    const { data } = yield call(authedRequest, 'fb_auth', token);
+
+    if (data && data.user) {
+      yield fork(authenticate, token, data.user);
+    }
+  } else if (!!location.search) {
+    const code = location.search.split("?code=")[1];
+
+    const { data } = yield call(unauthedRequest, 'fb_auth', {
+      method: 'POST',
+      body: JSON.stringify({ code })
+    });
+
+    if (data && data.user && data.token) {
+      yield [
+        call(setItem, 'token', data.token),
+        fork(authenticate, data.token, data.user),
+      ];
+    }
   }
+}
+
+export function* setResults(options) {
+}
+
+export function* searchReqFlow() {
+  while(true) {
+    const { payload: { passengers_count, destination }} = yield take(SEARCH_REQUEST);
+    const token = yield select(selectAuthToken());
+    const { data } = yield call(authedRequest, token,
+      `search?passengers_count=${passengers_count}&destination=${destination}`
+    );
+
+    if (data && data.options) {
+      yield fork(setResults, data.options);
+    }
+  }
+}
+
+export default function* appSaga() {
+  yield [
+    fork(authFlow),
+    fork(searchReqFlow)
+  ];
 }

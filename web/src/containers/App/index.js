@@ -11,9 +11,10 @@ import './styles.css';
 
 import Form from '../Form';
 import Options from '../Options';
+import FbAuth from '../FbAuth';
 
 const App = ({ token, options }) => {
-  let content = (<div/>);
+  let content = (<FbAuth/>);
 
   if (!!token) {
     content = (<Form />);
