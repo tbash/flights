@@ -68,8 +68,8 @@ export function* searchReqFlow() {
     const uri = `search?passengers_count=${passengersCount}&destination=${destination}&origin=${origin}`;
     const { data } = yield call(authedRequest, uri, token);
 
-    if (data && data.options) {
-      yield fork(setResults, data.options);
+    if (data) {
+      yield fork(setResults, data);
     }
   }
 }

@@ -9,7 +9,6 @@ module TripSearchService
       end
 
       def parse_flights(body)
-        p body
         options  = body.dig("trips", "tripOption")
         carriers = body.dig("trips", "data", "carrier")
 
@@ -39,17 +38,17 @@ module TripSearchService
         {
           request: {
             passengers: {
-              adultCount: params[:passengers_count]
+              adultCount: params["passengers_count"]
             },
             slice: [
               {
-                origin: params[:origin],
-                destination: params[:destination],
+                origin: params["origin"],
+                destination: params["destination"],
                 date: Time.now.strftime("%Y-%m-%d"),
                 maxStops: 0
               }
             ],
-            solutions: "20",
+            solutions: "10",
             refundable: false
           }
         }.to_json

@@ -25,7 +25,6 @@ export const closestAirport = (coords, airports) => {
     }
   }));
 
-  console.log(airportDistList)
   return airportDistList
     .sortBy((a) => a.distanceFromCurr)
     .first()
