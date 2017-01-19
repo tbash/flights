@@ -2,7 +2,7 @@ import { fork, take, select, call, put } from 'redux-saga/effects';
 import {
   SEARCH_REQUEST
 } from './constants';
-import { setUser } from './actions';
+import { setUser, setOptions } from './actions';
 import { selectAuthToken } from './selectors';
 import { getItem, setItem } from '../../utils/localStorage';
 import { unauthedRequest, authedRequest } from '../../utils/api';
@@ -38,15 +38,15 @@ export function* authFlow() {
 }
 
 export function* setResults(options) {
+  yield put(setOptions(options));
 }
 
 export function* searchReqFlow() {
   while(true) {
-    const { payload: { passengers_count, destination }} = yield take(SEARCH_REQUEST);
+    const { payload: { passengersCount, destination }} = yield take(SEARCH_REQUEST);
     const token = yield select(selectAuthToken());
-    const { data } = yield call(authedRequest, token,
-      `search?passengers_count=${passengers_count}&destination=${destination}`
-    );
+    const uri = `search?passengers_count=${passengersCount}&destination=${destination}`;
+    const { data } = yield call(authedRequest, uri, token);
 
     if (data && data.options) {
       yield fork(setResults, data.options);

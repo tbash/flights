@@ -6,3 +6,4 @@
 
 export const SEARCH_REQUEST = 'app/App/SEARCH_REQUEST';
 export const SET_USER = 'app/App/SET_USER';
+export const SET_OPTIONS = 'app/App/SET_OPTIONS';
