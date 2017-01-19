@@ -24,6 +24,11 @@ const selectAuthToken = () => createSelector(
   (substate) => substate.get('token')
 );
 
+const selectClosestAirport = () => createSelector(
+  selectAppDomain(),
+  (substate) => substate.get('closestAirportCode')
+);
+
 /**
  * Default selector used by App
  */
@@ -39,4 +44,5 @@ export {
   selectAirports,
   selectUser,
   selectAuthToken,
+  selectClosestAirport,
 };

@@ -9,7 +9,7 @@ const selectFormDomain = () => state => state.get('form');
  * Other specific selectors
  */
 
-const selectPassengerCount = () => createSelector(
+const selectPassengersCount = () => createSelector(
   selectFormDomain(),
   (substate) => substate.get('passenger_count')
 );
@@ -31,6 +31,6 @@ const selectForm = () => createSelector(
 export default selectForm;
 export {
   selectFormDomain,
-  selectPassengerCount,
+  selectPassengersCount,
   selectDestination,
 };

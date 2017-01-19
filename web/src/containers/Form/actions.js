@@ -14,7 +14,7 @@ export const setDestination = (payload) => ({
   payload
 });
 
-export const setPassengerCount = (payload) => ({
+export const setPassengersCount = (payload) => ({
   type: SET_PASSENGER_COUNT,
   payload
 });

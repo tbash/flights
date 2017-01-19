@@ -8,16 +8,20 @@ import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
 import './styles.css';
 import {
-  selectPassengerCount,
+  selectPassengersCount,
   selectDestination,
 } from './selectors';
 import {
-  setPassengerCount,
+  setPassengersCount,
   setDestination,
 } from './actions';
 
 import { searchRequest } from '../App/actions';
-import { selectAirports, selectUser } from '../App/selectors';
+import {
+  selectAirports,
+  selectUser,
+  selectClosestAirport,
+} from '../App/selectors';
 import Button from '../../components/Button';
 import User from '../../components/User';
 
@@ -27,9 +31,10 @@ const Form = (props) => {
     airports,
     putRequestSearch,
     putDestination,
-    putPassengerCount,
+    putPassengersCount,
     destination,
-    passengerCount
+    origin,
+    passengersCount
   } = props;
 
   const truncate = (name) => {
@@ -50,7 +55,7 @@ const Form = (props) => {
           ))}
         </select>
         <br />with{' '}
-        <select onChange={(e) => { putPassengerCount(e.target.value) }}>
+        <select onChange={(e) => { putPassengersCount(e.target.value) }}>
           <option>me and me alone.</option>
           <option value="2">one other person.</option>
           <option value="3">two other people.</option>
@@ -58,10 +63,10 @@ const Form = (props) => {
         </select>
         <br />
       </form>
-      {destination && passengerCount
+      {destination && passengersCount && origin
         ? (<Button
             text='FIND A PLANE'
-            onClick={() => {putRequestSearch(destination, passengerCount)}}
+            onClick={() => {putRequestSearch({ destination, origin,  passengersCount})}}
           />)
         : null
       }
@@ -73,18 +78,19 @@ const mapStateToProps = createStructuredSelector({
   airports: selectAirports(),
   user: selectUser(),
   destination: selectDestination(),
-  passengerCount: selectPassengerCount(),
+  passengersCount: selectPassengersCount(),
+  origin: selectClosestAirport(),
 });
 
 const mapDispatchToProps = (dispatch) => ({
-  putPassengerCount(val) {
-    dispatch(setPassengerCount(val))
+  putPassengersCount(val) {
+    dispatch(setPassengersCount(val))
   },
   putDestination(val) {
     dispatch(setDestination(val))
   },
-  putRequestSearch(destination, passengerCount) {
-    dispatch(searchRequest({ destination, passengerCount }))
+  putRequestSearch({ destination, origin, passengersCount }) {
+    dispatch(searchRequest({ destination, origin, passengersCount }))
   }
 });
 

@@ -2,13 +2,24 @@ import { fork, take, select, call, put } from 'redux-saga/effects';
 import {
   SEARCH_REQUEST
 } from './constants';
-import { setUser, setOptions } from './actions';
-import { selectAuthToken } from './selectors';
+import {
+  setUser,
+  setOptions,
+  setClosestAirportCode,
+} from './actions';
+import {
+  selectAuthToken,
+  selectAirports
+} from './selectors';
 import { getItem, setItem } from '../../utils/localStorage';
 import { unauthedRequest, authedRequest } from '../../utils/api';
+import { closestAirport, getCurrentPosition } from '../../utils/closestAirport';
 
 export function* authenticate(token, user){
-  yield put(setUser({ token, user }));
+  yield [
+    put(setUser({ token, user })),
+    fork(searchReqFlow)
+  ]
 }
 
 export function* authFlow() {
@@ -42,10 +53,19 @@ export function* setResults(options) {
 }
 
 export function* searchReqFlow() {
+  const [airports, geo] = yield [
+    select(selectAirports()),
+    call(getCurrentPosition)
+  ];
+
+  const { code } = yield call(closestAirport, geo.coords, airports);
+
+  yield put(setClosestAirportCode(code));
+
   while(true) {
-    const { payload: { passengersCount, destination }} = yield take(SEARCH_REQUEST);
+    const { payload: { passengersCount, destination, origin }} = yield take(SEARCH_REQUEST);
     const token = yield select(selectAuthToken());
-    const uri = `search?passengers_count=${passengersCount}&destination=${destination}`;
+    const uri = `search?passengers_count=${passengersCount}&destination=${destination}&origin=${origin}`;
     const { data } = yield call(authedRequest, uri, token);
 
     if (data && data.options) {
@@ -57,6 +77,5 @@ export function* searchReqFlow() {
 export default function* appSaga() {
   yield [
     fork(authFlow),
-    fork(searchReqFlow)
   ];
 }
